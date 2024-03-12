@@ -3,7 +3,10 @@ import React from 'react'
 const AudioMinsRow = () => {
   return (
     <div>
-      Audio mins row
+      <input type="number" />
+      <select>
+        <option value="test">Test</option>
+      </select>
     </div>
   )
 }
