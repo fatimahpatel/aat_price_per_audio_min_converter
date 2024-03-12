@@ -8,7 +8,7 @@ function App() {
     <>
       <h1>AAT price converter</h1>
       <AudioMinsRow />
-      <div>=</div>
+      <div className="equals">=</div>
       <PriceRow />
     </>   
   );
